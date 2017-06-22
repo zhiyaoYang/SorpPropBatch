@@ -3,7 +3,7 @@
 
 #include "sorpproplib_global.h"
 
-#include <QDebug>
+#include <iostream>
 
 class SORPPROPLIBSHARED_EXPORT SorpPropLib
 {
@@ -11,7 +11,7 @@ class SORPPROPLIBSHARED_EXPORT SorpPropLib
 public:
     SorpPropLib();
 
-    void Test();
+    void calc(std::string ref, std::string sorb, double tK, double xMass);
 };
 
 #endif // SORPPROPLIB_H
