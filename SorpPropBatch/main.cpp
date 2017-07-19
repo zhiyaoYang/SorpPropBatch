@@ -17,11 +17,13 @@ int main(int argc, char *argv[])
 
         std::cin>>ref>>sorb>>tK>>xMass;
 
+        std::cout<<"temperature[K]\tmass ratio\tpressure[kPa]\tequation form\treference\n";
+
         sLib->calc(ref,sorb,tK,xMass);
 
-        std::cout<<"\n\nDo you wish to exit? [y/n]\n";
+//        std::cout<<"\n\nDo you wish to exit? [y/n]\n";
 
-        std::cin>>exit;
+//        std::cin>>exit;
     }
 
     return 0;
