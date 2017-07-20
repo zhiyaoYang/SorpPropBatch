@@ -7,7 +7,7 @@ TARGET = SorpPropBatch
 CONFIG += console
 CONFIG -= app_bundle
 
-LIBS += "C:\Users\ZzzYao\Documents\GitHub\SorpPropLib\build-sorpPropLib-Desktop_Qt_5_8_0_MinGW_32bit-Release\release\sorpPropLib.dll"
+LIBS += "C:\Users\zyy\workspace\SorpPropLib_release build\release\sorpPropLib.dll"
 
 TEMPLATE = app
 

@@ -83,9 +83,11 @@ int main(int argc, char *argv[])
 
                 in.flush();
                 iFile.close();
-                exit = 'y';
             }
         }
+
+        std::cout<<"\nexit?[y/n]\n";
+        std::cin>>exit;
 
     }
 
