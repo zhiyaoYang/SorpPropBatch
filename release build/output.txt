@@ -1,5 +1,5 @@
-ref/sorb	H2O	LiBr
+ref/sorb	H2O	SilicaGel
 t[K]	mass ratio	p[kPa]	equation form	reference
-323	0.5	5.09022	Duhring	1977 ASHRAE handbook and product
-333	0.5	6.35319	Duhring	1977 ASHRAE handbook and product
-333	0.6	4.12333	Duhring	1977 ASHRAE handbook and product
+323	37.08	0.3427	Toth	Wang and LeVan, J. Chem. Eng. Data. 2009
+298	187.2	0.995092	Toth	Wang and LeVan, J. Chem. Eng. Data. 2009
+348	17.226	0.441232	Toth	Wang and LeVan, J. Chem. Eng. Data. 2009
