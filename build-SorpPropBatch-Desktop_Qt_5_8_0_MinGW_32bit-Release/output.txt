@@ -1,5 +1,0 @@
-ref/sorb	H2O	LiBr
-t[K]	mass ratio	p[kPa]	equation form	reference
-323	0.5	5.09022	Duhring	1977 ASHRAE handbook and product
-333	0.5	6.35319	Duhring	1977 ASHRAE handbook and product
-333	0.6	4.12333	Duhring	1977 ASHRAE handbook and product
