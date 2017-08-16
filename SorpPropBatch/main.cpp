@@ -41,7 +41,6 @@ int main(int argc, char *argv[])
                     std::cout<<"failed to open output file.\n";
                     write = false;
                 }
-                std::cout<<"t[K]\tmass ratio\tpressure[kPa]\tequation form\treference\n";
 
 
                 SorpPropLib *sLib = new SorpPropLib;
@@ -64,7 +63,10 @@ int main(int argc, char *argv[])
                         sorb_s = line.split("\t").at(2);
 
                         ref = ref_s.toStdString();
-                        sorb = sorb_s.toStdString();
+                        sorb = sorb_s.toStdString();                        
+
+                        std::cout<<"ref: "<<ref<<" sorb: "<<sorb<<"\n";
+                        std::cout<<"t[K]\tmass ratio\tpressure[kPa]\tequation form\treference\n";
                     }
                     else if(line.at(0).isDigit()){
                         tK_s= line.split("\t").at(0);
