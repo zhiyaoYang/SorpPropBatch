@@ -2,4 +2,9 @@
 *.user
 *.f968526
 SorpPropBatch/SorpPropBatch.pro
+<<<<<<< HEAD
+*.user
+=======
+*.f6021ad
+>>>>>>> 003a2cef361592e18bc5799c462a6a3039f314f0
 *.user
