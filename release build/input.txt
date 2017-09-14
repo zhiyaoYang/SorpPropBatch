@@ -1,4 +1,2 @@
-ref/sorb	H2O	SilicaGel
-323	37.08	0.363
-298	187.2	0.941
-348	17.226	0.466
+ref/sorb	H2O	LiBr:CH3COOK
+323	0.55
