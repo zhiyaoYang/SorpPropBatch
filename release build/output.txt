@@ -1,40 +1,6 @@
-<<<<<<< HEAD
-ref/sorb	H2O	LiBr:CH3COOK
+ref/sorb	propylene	Zeolite:4A
 t[K]	mass ratio	p[kPa]	equation form	reference
-323	0.55	1.94128	Antoine	de Lucas, A., Donate, M., & Rodr¨ªguez, J. F. (2006). Vapour pressures, densities, and viscosities of the (water+ lithium bromide+ potassium acetate) system and (water+ lithium bromide+ sodium lactate) system. The Journal of Chemical Thermodynamics, 38(2), 123-129.
-=======
-ref/sorb	H2O	LiCl
-t[K]	mass ratio	p[kPa]	equation form	reference
-343	30	0.424175	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	31	0.400655	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	32	0.377394	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	33	0.354553	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	34	0.332278	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	35	0.310701	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	36	0.28993	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	37	0.270053	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	38	0.251134	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	39	0.233215	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	40	0.21632	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	41	0.200452	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	42	0.185601	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	43	0.171745	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	44	0.158851	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-343	45	0.14688	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	30	0.658309	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	31	0.623131	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	32	0.588253	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	33	0.553919	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	34	0.520355	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	35	0.487762	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	36	0.456314	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	37	0.426148	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	38	0.39737	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	39	0.370051	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	40	0.344233	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	41	0.319932	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	42	0.297138	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	43	0.275823	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	44	0.255945	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
-353	45	0.237449	Custom	Conde, M. R. (2004). Properties of aqueous solutions of lithium and calcium chlorides: formulations for use in air conditioning equipment design. International Journal of Thermal Sciences, 43(4), 367-382.
->>>>>>> 003a2cef361592e18bc5799c462a6a3039f314f0
+343	0.5	0.0425063	Toth	Da Silva, F. A., & Rodrigues, A. E. (1999). Adsorption equilibria and kinetics for propylene and propane over 13X and 4A zeolite pellets. Industrial & engineering chemistry research, 38(5), 2051-2057.
+343	0.55	0.0453642	Toth	Da Silva, F. A., & Rodrigues, A. E. (1999). Adsorption equilibria and kinetics for propylene and propane over 13X and 4A zeolite pellets. Industrial & engineering chemistry research, 38(5), 2051-2057.
+353	0.5	0.14786	Toth	Da Silva, F. A., & Rodrigues, A. E. (1999). Adsorption equilibria and kinetics for propylene and propane over 13X and 4A zeolite pellets. Industrial & engineering chemistry research, 38(5), 2051-2057.
+353	0.55	0.152734	Toth	Da Silva, F. A., & Rodrigues, A. E. (1999). Adsorption equilibria and kinetics for propylene and propane over 13X and 4A zeolite pellets. Industrial & engineering chemistry research, 38(5), 2051-2057.
